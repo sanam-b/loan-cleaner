@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openpyxl
+rapidfuzz
+numpy
+anthropic   # optional: LLM explanations
+httpx       # tests
